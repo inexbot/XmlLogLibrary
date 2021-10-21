@@ -1,0 +1,11 @@
+E:\Projects\IPD\XmlLogLibrary\bin\Release\netcoreapp3.1\XmlLogLibrary.deps.json
+E:\Projects\IPD\XmlLogLibrary\bin\Release\netcoreapp3.1\XmlLogLibrary.dll
+E:\Projects\IPD\XmlLogLibrary\bin\Release\netcoreapp3.1\XmlLogLibrary.pdb
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.Resource.resources
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.csproj.GenerateResource.cache
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.AssemblyInfoInputs.cache
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.AssemblyInfo.cs
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.csproj.CoreCompileInputs.cache
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.dll
+E:\Projects\IPD\XmlLogLibrary\obj\Release\netcoreapp3.1\XmlLogLibrary.pdb

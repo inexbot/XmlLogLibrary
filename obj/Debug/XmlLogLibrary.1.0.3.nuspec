@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XmlLogLibrary</id>
+    <version>1.0.3</version>
+    <authors>Inexbot</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>一个简单易用的log日志记录库，用xml文件记录，并可以返回列表。写入log采用了多线程的方式，不会阻塞主线程。</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Projects\IPD\XmlLogLibrary\bin\Debug\netcoreapp3.1\XmlLogLibrary.dll" target="lib\netcoreapp3.1\XmlLogLibrary.dll" />
+    <file src="E:\Projects\IPD\XmlLogLibrary\LICENSE.txt" target="LICENSE.txt" />
+  </files>
+</package>
