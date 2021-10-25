@@ -2,7 +2,9 @@
 
 ## ABOUT
 
-一个简单易用的log日志记录库。需要.net core 3.1及以上版本使用。
+一个简单易用的 log 日志记录库。需要.net core 3.1 及以上版本使用。
+
+推荐使用 Nuget 安装库并使用[https://www.nuget.org/packages/XmlLogLibrary](https://www.nuget.org/packages/XmlLogLibrary)。
 
 ## 使用
 
